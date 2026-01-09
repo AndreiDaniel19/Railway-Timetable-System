@@ -1,0 +1,21 @@
+# Ignore executables (Linux)
+server
+client
+
+# Ignore executables (Windows)
+*.exe
+*.dll
+*.obj
+
+# Ignore object files
+*.o
+
+# Ignore editor specific folders
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+
+# Ignore database lock files if any
+*.lock

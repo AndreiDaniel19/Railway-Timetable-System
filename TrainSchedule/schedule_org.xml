@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trains>
+    <Train ID="1661" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="06:25"/>
+            <Station Name="Ploiesti_Sud" Arr="07:05" Dep="07:10"/>
+            <Station Name="Buzau" Arr="08:15" Dep="08:25"/>
+            <Station Name="Focsani" Arr="09:30" Dep="09:35"/>
+            <Station Name="Bacau" Arr="10:50" Dep="11:00"/>
+            <Station Name="Roman" Arr="11:40" Dep="11:45"/>
+            <Station Name="Iasi" Arr="13:00" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1663" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="12:00"/>
+            <Station Name="Buzau" Arr="13:50" Dep="14:00"/>
+            <Station Name="Bacau" Arr="16:30" Dep="16:40"/>
+            <Station Name="Iasi" Arr="18:35" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1665" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="23:15"/>
+            <Station Name="Buzau" Arr="01:00" Dep="01:10"/>
+            <Station Name="Bacau" Arr="03:45" Dep="03:55"/>
+            <Station Name="Iasi" Arr="06:10" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1662" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Iasi" Arr="-" Dep="14:15"/>
+            <Station Name="Vaslui" Arr="15:10" Dep="15:15"/>
+            <Station Name="Barlad" Arr="16:00" Dep="16:05"/>
+            <Station Name="Tecuci" Arr="16:50" Dep="16:55"/>
+            <Station Name="Buzau" Arr="18:30" Dep="18:40"/>
+            <Station Name="Bucuresti_Nord" Arr="20:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1664" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Iasi" Arr="-" Dep="05:20"/>
+            <Station Name="Bacau" Arr="07:10" Dep="07:20"/>
+            <Station Name="Bucuresti_Nord" Arr="11:45" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1751" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="11:15"/>
+            <Station Name="Ploiesti_Sud" Arr="12:00" Dep="12:05"/>
+            <Station Name="Bacau" Arr="15:30" Dep="15:40"/>
+            <Station Name="Suceava" Arr="17:20" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1752" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Suceava" Arr="-" Dep="08:45"/>
+            <Station Name="Pascani" Arr="09:40" Dep="09:50"/>
+            <Station Name="Bacau" Arr="10:50" Dep="11:00"/>
+            <Station Name="Bucuresti_Nord" Arr="15:10" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="5401" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Iasi" Arr="-" Dep="07:00"/>
+            <Station Name="Lețcani" Arr="07:15" Dep="07:16"/>
+            <Station Name="Podu_Iloaiei" Arr="07:30" Dep="07:31"/>
+            <Station Name="Targu_Frumos" Arr="07:50" Dep="07:55"/>
+            <Station Name="Pascani" Arr="08:20" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="5403" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Iasi" Arr="-" Dep="16:30"/>
+            <Station Name="Podu_Iloaiei" Arr="17:00" Dep="17:01"/>
+            <Station Name="Pascani" Arr="17:50" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1580" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="07:30"/>
+            <Station Name="Fetesti" Arr="08:45" Dep="08:47"/>
+            <Station Name="Constanta" Arr="09:55" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1582" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="09:30"/>
+            <Station Name="Constanta" Arr="11:55" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1981" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="14:00"/>
+            <Station Name="Constanta" Arr="16:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1922" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Arad" Arr="-" Dep="18:00"/>
+            <Station Name="Deva" Arr="20:00" Dep="20:05"/>
+            <Station Name="Bucuresti_Nord" Arr="05:00" Dep="05:30"/>
+            <Station Name="Constanta" Arr="08:00" Dep="08:15"/>
+            <Station Name="Eforie_Nord" Arr="08:40" Dep="08:42"/>
+            <Station Name="Mangalia" Arr="09:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1581" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Constanta" Arr="-" Dep="16:00"/>
+            <Station Name="Medgidia" Arr="16:30" Dep="16:32"/>
+            <Station Name="Fetesti" Arr="17:10" Dep="17:12"/>
+            <Station Name="Bucuresti_Nord" Arr="18:30" Dep="-"/>
+        </Route>
+    </Train>
+    
+    <Train ID="1585" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Constanta" Arr="-" Dep="06:00"/>
+            <Station Name="Fetesti" Arr="07:10" Dep="07:12"/>
+            <Station Name="Bucuresti_Nord" Arr="08:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1745" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="06:00"/>
+            <Station Name="Ploiesti_Vest" Arr="06:40" Dep="06:42"/>
+            <Station Name="Sinaia" Arr="07:30" Dep="07:32"/>
+            <Station Name="Brasov" Arr="08:30" Dep="08:45"/>
+            <Station Name="Sighisoara" Arr="10:30" Dep="10:35"/>
+            <Station Name="Cluj_Napoca" Arr="13:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1635" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="10:00"/>
+            <Station Name="Ploiesti_Vest" Arr="10:45" Dep="10:47"/>
+            <Station Name="Predeal" Arr="11:50" Dep="11:55"/>
+            <Station Name="Brasov" Arr="12:35" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1746" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Cluj_Napoca" Arr="-" Dep="15:00"/>
+            <Station Name="Teius" Arr="16:30" Dep="16:35"/>
+            <Station Name="Brasov" Arr="19:50" Dep="20:00"/>
+            <Station Name="Bucuresti_Nord" Arr="22:45" Dep="-"/>
+        </Route>
+    </Train>
+    
+    <Train ID="346" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="14:00"/>
+            <Station Name="Brasov" Arr="16:30" Dep="16:40"/>
+            <Station Name="Sighisoara" Arr="18:30" Dep="18:35"/>
+            <Station Name="Teius" Arr="19:50" Dep="20:00"/>
+            <Station Name="Simeria" Arr="21:30" Dep="21:40"/>
+            <Station Name="Arad" Arr="23:50" Dep="00:10"/>
+            <Station Name="Curtici" Arr="00:30" Dep="-"/>
+        </Route>
+    </Train>
+    
+    <Train ID="1642" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Cluj_Napoca" Arr="-" Dep="22:15"/>
+            <Station Name="Teius" Arr="23:30" Dep="23:40"/>
+            <Station Name="Brasov" Arr="03:00" Dep="03:15"/>
+            <Station Name="Ploiesti_Vest" Arr="05:20" Dep="05:22"/>
+            <Station Name="Bucuresti_Nord" Arr="06:10" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="3001" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Brasov" Arr="-" Dep="14:10"/>
+            <Station Name="Predeal" Arr="14:50" Dep="14:55"/>
+            <Station Name="Sinaia" Arr="15:20" Dep="15:22"/>
+            <Station Name="Bucuresti_Nord" Arr="17:50" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1831" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Timisoara_Nord" Arr="-" Dep="06:40"/>
+            <Station Name="Lugoj" Arr="07:30" Dep="07:32"/>
+            <Station Name="Deva" Arr="09:15" Dep="09:20"/>
+            <Station Name="Sibiu" Arr="11:30" Dep="11:45"/>
+            <Station Name="Brasov" Arr="14:00" Dep="14:20"/>
+            <Station Name="Suceava" Arr="19:00" Dep="19:15"/>
+            <Station Name="Pascani" Arr="20:00" Dep="20:10"/>
+            <Station Name="Iasi" Arr="21:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1832" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Cluj_Napoca" Arr="-" Dep="09:30"/>
+            <Station Name="Vatra_Dornei" Arr="12:45" Dep="12:50"/>
+            <Station Name="Suceava" Arr="15:00" Dep="15:15"/>
+            <Station Name="Pascani" Arr="16:00" Dep="16:10"/>
+            <Station Name="Iasi" Arr="17:20" Dep="17:35"/>
+            <Station Name="Galati" Arr="21:00" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1691" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="05:15"/>
+            <Station Name="Rosiori_Nord" Arr="06:30" Dep="06:32"/>
+            <Station Name="Craiova" Arr="08:00" Dep="08:10"/>
+            <Station Name="Drobeta_Turnu_Severin" Arr="10:15" Dep="10:20"/>
+            <Station Name="Timisoara Nord" Arr="13:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="72" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="05:45"/>
+            <Station Name="Craiova" Arr="08:50" Dep="09:00"/>
+            <Station Name="Timisoara_Nord" Arr="14:10" Dep="14:30"/>
+            <Station Name="Arad" Arr="15:20" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1692" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Timisoara_Nord" Arr="-" Dep="06:00"/>
+            <Station Name="Craiova" Arr="11:00" Dep="11:10"/>
+            <Station Name="Bucuresti_Nord" Arr="14:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1595" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="15:30"/>
+            <Station Name="Craiova" Arr="18:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="9002" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Craiova" Arr="-" Dep="15:30"/>
+            <Station Name="Caracal" Arr="16:15" Dep="16:20"/>
+            <Station Name="Rosiori_Nord" Arr="17:00" Dep="17:10"/>
+            <Station Name="Bucuresti_Nord" Arr="19:15" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1742" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Satu_Mare" Arr="-" Dep="17:00"/>
+            <Station Name="Baia_Mare" Arr="18:15" Dep="18:25"/>
+            <Station Name="Dej_Calatori" Arr="20:30" Dep="20:40"/>
+            <Station Name="Beclean_pe_Somes" Arr="21:10" Dep="21:12"/>
+            <Station Name="Sighisoara" Arr="23:50" Dep="23:55"/>
+            <Station Name="Bucuresti_Nord" Arr="06:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1641" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="21:00"/>
+            <Station Name="Brasov" Arr="23:30" Dep="23:45"/>
+            <Station Name="Miercurea_Ciuc" Arr="01:15" Dep="01:20"/>
+            <Station Name="Dej_Calatori" Arr="04:30" Dep="04:40"/>
+            <Station Name="Baia_Mare" Arr="06:50" Dep="-"/>
+        </Route>
+    </Train>
+
+     <Train ID="1572" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Galati" Arr="-" Dep="13:30"/>
+            <Station Name="Braila" Arr="14:00" Dep="14:05"/>
+            <Station Name="Faurei" Arr="14:50" Dep="14:52"/>
+            <Station Name="Urziceni" Arr="16:00" Dep="16:05"/>
+            <Station Name="Bucuresti_Nord" Arr="17:40" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1574" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Galati" Arr="-" Dep="05:30"/>
+            <Station Name="Braila" Arr="06:00" Dep="06:05"/>
+            <Station Name="Bucuresti_Nord" Arr="09:10" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="1575" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="13:10"/>
+            <Station Name="Urziceni" Arr="14:30" Dep="14:32"/>
+            <Station Name="Galati" Arr="17:15" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="7901" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="07:10"/>
+            <Station Name="Aeroport_HenriCoanda" Arr="07:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="7903" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="08:10"/>
+            <Station Name="Aeroport_HenriCoanda" Arr="08:30" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="7902" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Aeroport_HenriCoanda" Arr="-" Dep="07:50"/>
+            <Station Name="Bucuresti_Nord" Arr="08:10" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="8001" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Obor" Arr="-" Dep="07:30"/>
+            <Station Name="Fundulea" Arr="08:15" Dep="08:17"/>
+            <Station Name="Fetesti" Arr="09:00" Dep="-"/>
+        </Route>
+    </Train>
+
+    <Train ID="8002" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Ploiesti_Sud" Arr="-" Dep="18:00"/>
+            <Station Name="Buftea" Arr="18:40" Dep="18:42"/>
+            <Station Name="Bucuresti_Nord" Arr="19:00" Dep="-"/>
+        </Route>
+    </Train>
+    
+    <Train ID="3005" Delay="0" Estimate="La Timp">
+        <Route>
+            <Station Name="Bucuresti_Nord" Arr="-" Dep="16:00"/>
+            <Station Name="Ploiesti_Vest" Arr="16:40" Dep="16:42"/>
+            <Station Name="Sinaia" Arr="17:30" Dep="17:32"/>
+            <Station Name="Brasov" Arr="18:40" Dep="-"/>
+        </Route>
+    </Train>
+
+</Trains>
