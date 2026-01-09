@@ -88,7 +88,7 @@ Once connected, use the following commands:
 
 | Command | Description | Example |
 | :--- | :--- | :--- |
-| `GET_SCHEDULE <From> <To>` | Finds trains between two cities. | `GET_SCHEDULE Iasi Bucuresti` |
+| `GET_SCHEDULE <From> <To>` | Finds trains between two cities. | `GET_SCHEDULE Iasi Bucuresti-_Nord` |
 | `GET_DEPARTURES [Station]` | Lists trains leaving in the next hour. | `GET_DEPARTURES` |
 | `GET_ARRIVALS [Station]` | Lists trains arriving in the next hour. | `GET_ARRIVALS Roman` |
 | `REPORT_DELAY <ID> <Min> <Est>` | Reports a delay for a train ID. | `REPORT_DELAY 1661 10 Delayed` |
