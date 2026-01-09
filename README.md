@@ -36,7 +36,7 @@ The project demonstrates advanced systems programming concepts: **TCP/IP Sockets
 - **TrainManager/**: Database Logic & XML handling
 - **Commands/**: Command Pattern Implementation
 - **xml_parser/**: External library (TinyXML-2)
-- **OrarTrenuri/**: Database Files (`orarorg.xml`, `orarmod.xml`)
+- **TrainSchedule/**: Database Files (`schedule_org.xml`, `schedule_mod.xml`)
 - **README.md**: Documentation
 
 ---
