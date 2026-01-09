@@ -74,7 +74,7 @@ Run command: `x86_64-w64-mingw32-g++ client.cpp -o client_windows.exe -lws2_32 -
 
 **Step 1:** Start the Server.
 Run: `./server`
-*(The server listens on port 54000. Ensure orarorg.xml exists in the OrarTrenuri folder.)*
+*(The server listens on port 54000. Ensure schedule_org.xml exists in the TrainSchedule folder.)*
 
 **Step 2:** Start the Client (in a new terminal).
 Run: `./client`
