@@ -53,7 +53,7 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 Open your terminal and run the following commands to download the code:
 
-git clone https://github.com/cataCatau/Multithreaded-Train-Server.git
+git clone https://github.com/AndreiDaniel19/Railway-Timetable-System.git
 cd Multithreaded-Train-Server
 
 ### 2. Build the Project (Linux)
